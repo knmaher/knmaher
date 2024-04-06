@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently working with **spring boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
