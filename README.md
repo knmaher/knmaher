@@ -3,7 +3,6 @@
 
 - 🔭 Ich arbeite derzeit mit **Spring Boot**, **Vue.js** und **TypeScript**
 - 🌱 Ich erweitere ständig meine Kenntnisse im Bereich **Cloud-Lösungen**, **Microservices** und **Clean Architecture**
-- 💬 Frag mich gerne zu Themen rund um **Java**, **Docker**, **PostgreSQL** oder **Quarkus**
 - ⚙️ Tools & Technologien, mit denen ich arbeite: siehe unten ⬇️
 
 ---
@@ -29,14 +28,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
-
----
-
-<h3>📌 Über mich in kurz:</h3>
-
-- 🇮🇶 Gebürtig aus dem Irak – seit mehreren Jahren in Deutschland
-- 👨‍💻 Beruflich aktiv als Entwickler in Java & Webtechnologien
-- 🎯 Ziele: sauberen Code schreiben, Software mit echtem Nutzen entwickeln, immer dazulernen
 
 ---
 
